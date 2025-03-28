@@ -23,7 +23,7 @@
     
         .container_titulo {
             font-weight: 400
-            display: block;
+            display, block;
         }
     }
        @media screen and (min-width: 1024px) {
