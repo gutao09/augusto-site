@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: var(--cor-do-cabecalho);
+    background-color: var(--cor-cabecalho);
     padding: 1em;
     }
     .container{
@@ -18,12 +18,12 @@
 
     @media screen and (min-width: 820px) {
         .container_titulo, .container_titulo--negrito {
-            font-size: 30px
+            font-size: 30px;
         }
     
         .container_titulo {
             font-weight: 400
-            display, block;
+            display block;
         }
     }
        @media screen and (min-width: 1024px) {
